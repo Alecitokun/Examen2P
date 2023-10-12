@@ -16,10 +16,10 @@ public class Suma {
         public static void main(String[] args) {
             Suma suma = new Suma();
 
-            int resultado1 = suma.sumar(9, 7);
-            int resultado2 = suma.sumar(4, 9, 1);
-            double resultado3 = suma.sumar(7.1, 4.2);
-            double resultado4 = suma.sumar(4.2, 7.1, 1.4);
+            int resultado1 = suma.sumar(5, 8);
+            int resultado2 = suma.sumar(7, 8, 2);
+            double resultado3 = suma.sumar(9.1, 3.2);
+            double resultado4 = suma.sumar(6.2, 8.2, 2.5);
 
             System.out.println("Resultado 1: " + resultado1);
             System.out.println("Resultado 2: " + resultado2);

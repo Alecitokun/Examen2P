@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7295cd23-6b47-48ca-84d2-9598f400b4c4" name="Changes" comment="Examen Terminado">
+    <list default="true" id="7295cd23-6b47-48ca-84d2-9598f400b4c4" name="Changes" comment="Examen Resultado Final">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pedido/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pedido/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pedido/Pedido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="372ca060-c8f9-414c-b74a-41c314f2a9d0" />
+        <option name="url" value="https://github.com/Alecitokun/Examen2P.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2WfJ2cYWC8QGVRGaS7TtkLhudeW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,11 +67,37 @@
       <option name="project" value="LOCAL" />
       <updated>1697118897945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Examen Resultado">
+      <option name="closed" value="true" />
+      <created>1697119012622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697119012622</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Examen Resultado Final">
+      <option name="closed" value="true" />
+      <created>1697119073690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697119073690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Examen Resultado Final">
+      <option name="closed" value="true" />
+      <created>1697119642742</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697119642742</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Examen Terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Examen Terminado" />
+    <MESSAGE value="Examen Resultado" />
+    <MESSAGE value="Examen Resultado Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Examen Resultado Final" />
   </component>
 </project>

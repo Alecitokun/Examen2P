@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7295cd23-6b47-48ca-84d2-9598f400b4c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examen2P.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pedido/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pedido/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pedido/Suma.java" afterDir="false" />
+    <list default="true" id="7295cd23-6b47-48ca-84d2-9598f400b4c4" name="Changes" comment="Examen Terminado">
+      <change beforePath="$PROJECT_DIR$/src/Pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pedido/Pedido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +44,19 @@
       <option name="presentableId" value="Default" />
       <updated>1697117495962</updated>
     </task>
+    <task id="LOCAL-00001" summary="Examen Terminado">
+      <option name="closed" value="true" />
+      <created>1697118897945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697118897945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Examen Terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Examen Terminado" />
   </component>
 </project>
